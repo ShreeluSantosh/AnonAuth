@@ -1,4 +1,4 @@
- anonAuth
+#AnonAuth
 
 An anonymous authentication mechanism that allows users to access online services without revealing their identities.
 
